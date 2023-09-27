@@ -2,5 +2,5 @@ nom : DUPOUY
 âge : 22 ans 
 sexe : F 
 taille : 161 cm 
-couleur préférée : jaune 
 lieu de naissance : Mont de Marsan 
+artiste : cedrine 
